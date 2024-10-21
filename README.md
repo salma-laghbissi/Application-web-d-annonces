@@ -1,2 +1,2 @@
 L'objectif de ce projet consiste principalement à réaliser une application web multidispositifs pour la publication des annonces en ligne. C'est une application qui sert à informer les visiteurs des annonces dans différentes catégories de produits et prestations et à offrir un espace privé avec une messagerie interne pour les clients puissent communiquer ainsi acheter les articles qui lui semble plus convenable, permet aussi aux membres de répondre à ces messageries, poser leurs propres produits.
-![image](./image.png)
+
